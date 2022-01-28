@@ -10,28 +10,16 @@ Each chapter in the book has many references for further reading. An up to date 
 
 Here are the chapter notes and meetup recordings:
 
-Chapter 1: Reliable, Scalable, and Maintainable Applications
-Notes and Meetup video
-
-Chapter 2: Data Models and Query Languages Summary
-
-Chapter 3: Storage and Retrieval Summary
-
+Chapter 1: Reliable, Scalable, and Maintainable Applications SummaryNotes
+Chapter 2: Data Models and Query Languages SummaryNotes
+Chapter 3: Storage and Retrieval SummaryNotes
 Chapter 4: Encoding and Evolution Summary
-
-Chapter 5: Replication Summary
-
-Chapter 6: Partitioning Summary
-
-Chapter 7: Transactions Summary
-
-Chatper 8: The Trouble with Distributed Systems Summary
-
-Chapter 9: Consistency and Consensus Summary
-
-Chapter 10: Batch Processing Summary
-
-Chapter 11: Stream Processing Summary
-
-Chapter 12: The Future of Data Systems Summary
+Chapter 5: Replication SummaryNotes
+Chapter 6: Partitioning SummaryNotes
+Chapter 7: Transactions SummaryNotes
+Chatper 8: The Trouble with Distributed Systems SummaryNotes
+Chapter 9: Consistency and Consensus SummaryNotes
+Chapter 10: Batch Processing SummaryNotes
+Chapter 11: Stream Processing SummaryNotes
+Chapter 12: The Future of Data Systems SummaryNotes
 
